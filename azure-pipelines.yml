@@ -11,7 +11,7 @@ pool:
 
 # Set variables
 variables:
-  directory: wwwroot
+  directory: Use_Case2/calculator
   stage: development
   serviceConnection: connection
   appServiceName: use-case-002
